@@ -8,7 +8,7 @@ int printf(const char *format, ...);
 
 .SH DESCRIPTION
 function that produces output according to a format.  Writes the output under the control of a format string that specifies how subsequent arguments (or arguments accessed via the variable-length argument facilities of stdarg(3)) are converted for output.  Execute according to option:
-
+ 
 .I
 .SS CONVERSION SPECIFIERS:
 .RS
